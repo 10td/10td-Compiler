@@ -7,6 +7,9 @@
 > for small repos
 
 ```
+git clone --bare https://github.com/repo.git
+cd repo.git
+git update-server-info
 ipfs add -r --raw-leaves=true .
 ```
 
