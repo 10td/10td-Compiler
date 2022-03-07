@@ -1,0 +1,22 @@
+architect -> spec -> engineer -> design doc. -> implimentation -> architect
+                                                      |
+                                                      v
+                                                  iteration
+                                                      |
+                                                      v
+                                                   release
+                                                   
+spec.
+  intro
+  architecture
+  implimentation
+  runtime
+  examples
+  
+design doc.
+  motivation/goals
+  implimentation approach
+  interfaces
+  opsec
+  assumptions
+  examples
